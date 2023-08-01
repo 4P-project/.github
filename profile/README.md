@@ -41,6 +41,10 @@ Due to its unique smart contract implementation, the FOUR tokens solve;
 | **Chain**     | Ethereum    | Ethereum     | Ethereum   | Polygon    | Polygon     | BSC         | BSC                  |
 | **LP**        |             |              |            |            |             |             |                      |
 
+## Disclaimer 📑
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
