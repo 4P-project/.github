@@ -14,7 +14,7 @@ Due to its unique smart contract implementation, the FOUR tokens solve;
 |-----------------------|-------------------|----------------------------|----------------------|------------|---------------|-------------------|-------------|
 | **Token Allocation**  | 40.000.000        | 80.000.000                 | 150.000.000          | 60.000.000 | 20.000.000    | 50.000.000        | 400.000.000 |
 | **% of Total Supply** | 10                | 15                         | 37.5                 | 15         | 5             | 12.5              | 100         |
-| **Vesting**           | 24 Months Vesting | No Vesting                 | 12 Month Linear Vesting | 24 Month Linear Vesting | No Vesting    | No Vesting        |        
+| **Vesting**           | 24 Months Vesting | No Vesting                 | 12 Month Linear Vesting | 24 Month Linear Vesting | No Vesting    | No Vesting        | /       
 
 **_distribution was finalized mid-2020_
 
