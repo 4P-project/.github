@@ -25,6 +25,14 @@ Due to its unique smart contract implementation, the FOUR tokens solve;
 
 **_numbers are close approximations, the circulating supply was sourced from sourced from CoinGecko on August 1rs 2023_
 
+## Technicals 🍿
+
+| **undefined** | **Token Standard** | **Symbol** | **Smart Contract** | **Decimals** | 
+|---------------|--------------------|------------|--------------------|--------------|
+| **Ethereum**  | ERC-20             | FOUR       | [EtherScan](https://etherscan.io/token/0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0)          | 18           |
+| **Polygon**   | Polygon PoS        | FOUR       | [PolygonScan](https://polygonscan.com/token/0x48cbc913de09317df2365e6827df50da083701d5)        | 18           |
+| **BNB**       | BEP-20             | FOUR       | [BscScan](https://bscscan.com/token/0xd882739fca9cbae00f3821c4c65189e2d7e26147?a=0x0E9D2a78e68a250D8cA3484d9626Ba734280553D)            | 18           |
+
 <!--
 
 **Here are some ideas to get you started:**
