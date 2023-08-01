@@ -1,6 +1,6 @@
 ## Introduction 👋
 
-Launched in 2018 as a part of The 4thPillar project, the FOUR tokens acted as a crucial technical component in solving “on-chain” communication settlement on the Ethereum blockchain. 
+Launched in 2018 as an independent part of The 4thPillar initiative, the FOUR tokens acted as a crucial technical component in solving “on-chain” communication settlement on the Ethereum blockchain. 
 
 Due to its unique smart contract implementation, the FOUR tokens solve;
 
