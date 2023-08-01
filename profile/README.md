@@ -18,7 +18,14 @@ Due to its unique smart contract implementation, the FOUR tokens solve;
 
 **_distribution was finalized mid-2020_
 
+## Distribution 🌈
 
+| ****         | **Total Supply** | **Circulating Supply** | **DEX Liquidity** | 
+|-----------------------|------------------|------------------------|-------------------|
+| **Nr. of Tokens**     | 400.000.000      | 176.763.900            | 30.000.000        |
+| **% of Total Supply** | 100              | 44                     | 7.5               |
+
+**_numbers are close approximations, the circulating supply was sourced from sourced from CoinGecko on August 1rs 2023_
 
 <!--
 
