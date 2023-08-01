@@ -23,11 +23,11 @@ Due to its unique smart contract implementation, the FOUR tokens solve;
 | **Nr. of Tokens**     | 400.000.000      | 176.763.900            | 30.000.000        |
 | **% of Total Supply** | 100              | 44                     | 7.5               |
 
-**_numbers are close approximations, the circulating supply was sourced from sourced from CoinGecko on August 1rs 2023_
+**_numbers are close approximations, the circulating supply was sourced from CoinGecko on August 1rs 2023_
 
 ## Technicals 🍿
 
-| **undefined** | **Token Standard** | **Symbol** | **Smart Contract** | **Decimals** | 
+| **** | **Token Standard** | **Symbol** | **Smart Contract** | **Decimals** | 
 |---------------|--------------------|------------|--------------------|--------------|
 | **Ethereum**  | ERC-20             | FOUR       | [EtherScan](https://etherscan.io/token/0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0)          | 18           |
 | **Polygon**   | Polygon PoS        | FOUR       | [PolygonScan](https://polygonscan.com/token/0x48cbc913de09317df2365e6827df50da083701d5)        | 18           |
