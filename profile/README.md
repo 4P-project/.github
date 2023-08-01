@@ -33,7 +33,7 @@ Due to its unique smart contract implementation, the FOUR tokens solve;
 | **Polygon**   | Polygon PoS        | FOUR       | [PolygonScan](https://polygonscan.com/token/0x48cbc913de09317df2365e6827df50da083701d5)        | 18           |
 | **BNB**       | BEP-20             | FOUR       | [BscScan](https://bscscan.com/token/0xd882739fca9cbae00f3821c4c65189e2d7e26147?a=0x0E9D2a78e68a250D8cA3484d9626Ba734280553D)            | 18           |
 
-## DEX & DEX LP Overview 👩‍💻
+## DEX & LP Overview 👩‍💻
 
 | **undefined** | **Uniswap** | **Balancer** | **Sushi ** | **Sushi**  | **ApeSwap** | **Pancake** | **Spartan Protocol** | 
 |---------------|-------------|--------------|------------|------------|-------------|-------------|----------------------|
