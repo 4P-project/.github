@@ -8,12 +8,14 @@ Due to its unique smart contract implementation, the FOUR tokens solve;
 - embedded TTS interface (i.e. token teleportation service), that enables wallet accounts to use ERC-20 FOUR natively as a GAS on EVM compatible Layer1/2's or Side Chains; 
 - MTO (i.e. multiple-transfer option), a settlement service that conserves blockchain network transactions and bundles signed multiple transactions together, and settles them on the blockchain as one transaction.
 
-## Distribution
+## Distribution 🌈
 
 | ****                  | **Private Round** | **Community Distribution** | **Development Fund** | **Team**   | **Marketing** | **DEX Liquidity** | **Total**   | 
 |-----------------------|-------------------|----------------------------|----------------------|------------|---------------|-------------------|-------------|
 | **Token Allocation**  | 40.000.000        | 80.000.000                 | 150.000.000          | 60.000.000 | 20.000.000    | 50.000.000        | 400.000.000 |
 | **% of Total Supply** | 10                | 15                         | 37.5                 | 15         | 5             | 12.5              | 100         |
+
+**_distribution was finalized mid-2020_
 
 
 
