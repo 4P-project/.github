@@ -1,4 +1,15 @@
-## Hi there 👋
+## Introduction 👋
+
+Launched in 2018 as a part of The 4thPillar project, the FOUR tokens acted as a crucial technical component in solving “on-chain” communication settlement on the Ethereum blockchain. 
+
+Due to its unique smart contract implementation, the FOUR tokens solve;
+
+- an ERC-20 interface that can be used with any Ethereum native blockchain wallet, furthermore the ERC-20 standard allows FOUR to integrate with most EVM compatible Layer1/2's or Side Chains enabling various dApp RTA (i.e. right-to-access) models; 
+
+- embedded TTS interface (i.e. token teleportation service), that enables wallet accounts to use ERC-20 FOUR natively as a GAS on EVM compatible Layer1/2's or Side Chains; 
+
+- MTO (i.e. multiple-transfer option), a settlement service that conserves blockchain network transactions and bundles signed multiple transactions together and settles them on the blockchain as one transaction.
+
 
 <!--
 
