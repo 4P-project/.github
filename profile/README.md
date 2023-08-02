@@ -23,7 +23,7 @@ Due to its unique smart contract implementation, the FOUR tokens solve;
 | **Nr. of Tokens**     | 400.000.000      | 176.700.000            | 30.700.000        | 146.000.000        |
 | **% of Total Supply** | 100              | 44                     | 7.5               | 36.5        |
 
-**_numbers are close approximations, the circulating supply was sourced from CoinGecko on August 1rs 2023_
+**_numbers are close approximations, the circulating supply was sourced from CoinGecko on August 1rs 2023._ _Actual supply is a deduction of DEX liquidity from circulating supply._
 
 ## Technicals 🍿
 
