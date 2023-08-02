@@ -35,7 +35,7 @@ Due to its unique smart contract implementation, the FOUR tokens solve;
 
 ## DEX & LP Overview 👩‍💻
 
-| **** | **Uniswap** | **Balancer** | **Sushi ** | **ApeSwap** | **Pancake** | **Spartan Protocol** | 
+| **** | **Uniswap** | **Balancer** | **Sushi** | **ApeSwap** | **Pancake** | **Spartan Protocol** | 
 |---------------|-------------|--------------|------------|------------|-------------|-------------|----------------------|
 | **Pairs**     | FOUR/ETH    | FOUR/ETH     | FOUR/ETH   | FOUR/MATIC  | FOUR/BNB    | FOUR/SPARTAN             |
 | **Chain**     | Ethereum    | Ethereum     | Ethereum   | Polygon     | BSC         | BSC                  |
