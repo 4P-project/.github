@@ -44,9 +44,12 @@ Due to its unique smart-contract implementation, the FOUR tokens solve three mai
 | **Chain**     | Ethereum    | Ethereum     | Ethereum   | Polygon     | BSC         | BSC                  |
 | **LP**        |[FOUR/ETH LP](https://v2.info.uniswap.org/pair/0xb1562400feaa849c363127bb847693cca05c1080)            | [FOUR/ETH LP](https://app.balancer.fi/#/ethereum/pool/0x494b26d4aee801cb1fabf498ee24f0af20238743000200000000000000000083)             | /           | /            | [FOUR/BNB LP](https://pancakeswap.finance/v2/pair/BNB/0xd882739Fca9CBAE00F3821c4c65189E2D7e26147)             | /                     |
 
-## Disclaimer 📑
+## Legal 📑
 
-
+| ****          | **Doc** | **** | 
+|---------------|---------|------|
+| Disclaimer    | pdf     |      |
+| Legal Opinion | pdf     |      |
 
 <!--
 
