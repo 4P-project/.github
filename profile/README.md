@@ -18,6 +18,8 @@ Due to its unique smart contract implementation, the FOUR tokens solve;
 
 **_distribution was finalized mid-2020_
 
+## Supply 🧙
+
 | ****         | **Total Supply** | **Circulating Supply** | **DEX Liquidity** | **Actual Supply** |
 |-----------------------|------------------|------------------------|-------------------|-------------------|
 | **Nr. of Tokens**     | 400.000.000      | 176.700.000            | 30.700.000        | 146.000.000        |
