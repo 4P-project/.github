@@ -46,10 +46,10 @@ Due to its unique smart-contract implementation, the FOUR tokens solve three mai
 
 ## Legal 📑
 
-| ****          | **Doc** | **** | 
-|---------------|---------|------|
-| Disclaimer    | [pdf](https://github.com/4P-project/static-assets/blob/main/pdf/4P-disclaimer.pdf)     |      |
-| Legal Opinion | [pdf](https://github.com/4P-project/static-assets/blob/main/pdf/Legal-Opinion-(FOUR).pdf)     |      |
+| ****          | **Doc** | 
+|---------------|---------|
+| Disclaimer    | [pdf](https://github.com/4P-project/static-assets/blob/main/pdf/4P-disclaimer.pdf)     |
+| Legal Opinion | [pdf](https://github.com/4P-project/static-assets/blob/main/pdf/Legal-Opinion-(FOUR).pdf)     |
 
 <!--
 
