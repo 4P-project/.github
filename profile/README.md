@@ -1,12 +1,10 @@
 ## Introduction 👋
 
-Launched in 2018 as an independent part of The 4thPillar initiative, the FOUR tokens act as a crucial technical component in solving “on-chain” communication or any other Layer 2 settlements on the Ethereum blockchain.
+Launched in 2018 as a part of The 4thPillar initiative, the FOUR tokens act as a crucial technical component in solving RTA (i.e. right-to-access), MTO (i.e. multiple-transfer option), and Grant services in the ecosystem of Web3 communication.
 
-Due to its unique smart-contract implementation, the FOUR tokens solve three main technical challenges.
-
-- As an ERC-20 interface, the FOUR tokens can be used with any Ethereum native blockchain wallet, furthermore, the ERC-20 standard allows FOUR to integrate with most EVM compatible Layer1/2's or Side Chains enabling various dApp RTA (i.e. right-to-access) models.
-- An MTO option (i.e. multiple-transfer option), acts as a settlement service that conserves blockchain network transactions and bundles signed multiple transactions together, and settles them on the blockchain as one transaction. Ideal for multiple token transfers such as airdrops.
-
+- As an ERC-20 interface, the FOUR tokens can be used with any Ethereum native blockchain wallet, furthermore, the ERC-20 standard allows FOUR to integrate with most EVM-compatible Layer 1/2's or Side Chains enabling various dApp RTA models.
+- An MTO option, acts as a settlement service that conserves blockchain network transactions and bundles signed multiple transactions together, and settles them on the blockchain as one transaction. Ideal for multiple token transfers such as airdrops.
+- Funded by the FOUR treasury, the token grants will enable continuous development in the FOUR token ecosystem.
 
 ## Distribution 🌈
 
