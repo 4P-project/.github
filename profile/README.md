@@ -10,11 +10,12 @@ Launched in 2018 as a part of The 4thPillar initiative, the FOUR tokens act as a
 
 | ****                  | **Private Round** | **Community Distribution** | **Development Fund** | **Team**   | **Marketing** | **DEX Liquidity** | **Total**   | 
 |-----------------------|-------------------|----------------------------|----------------------|------------|---------------|-------------------|-------------|
-| **Token Allocation**  | 40.000.000        | 80.000.000                 | 150.000.000          | 60.000.000 | 20.000.000    | 50.000.000        | 400.000.000 |
-| **% of Total Supply** | 10                | 15                         | 37.5                 | 15         | 5             | 12.5              | 100         |
+| **Token Allocation**  | 60.000.000        | 100.000.000                 | 100.000.000          | 60.000.000 | 50.000.000    | 30.000.000        | 400.000.000 |
+| **% of Total Supply** | 15                | 25                         | 25                 | 15         | 12.5             | 7.5              | 100         |
 | **Vesting**           | 24 Months Vesting | No Vesting                 | 12 Month Linear Vesting | 24 Month Linear Vesting | No Vesting    | No Vesting        | /       
 
-**_distribution was finalized mid-2020_
+_**Phase 1 distribution (i.e. 2018); Private Partners, Community (i.e. bug bounties, marketing activities...), and Team_
+_**Phase 2 & 3 distribution (i.e. 2020 to 2025); Development fund (i.e. grants and ecosystem development), Marketing and DEX LP_
 
 ## Supply 🧙
 
@@ -25,7 +26,7 @@ Launched in 2018 as a part of The 4thPillar initiative, the FOUR tokens act as a
 
 **_numbers are close approximations, the circulating supply was sourced from CoinGecko on August 1rs 2023._ _Actual supply is a deduction of DEX liquidity from circulating supply._
 
-## Technicals 🍿
+## MultiChain 🍿
 
 | **** | **Token Standard** | **Symbol** | **Smart Contract** | **Decimals** | 
 |---------------|--------------------|------------|--------------------|--------------|
