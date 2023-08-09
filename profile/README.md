@@ -2,11 +2,11 @@
 
 On a mission to create robust dMail (i.e. decentralized email) and dChat (i.e. decentralized messaging) applications powered by community collaboration.
 
-## Project Design
+## Project Design 🎨
 
 The project's design centers around community collaboration where any community member can contribute. Decentralized email and messaging MVPs (i.e. minimum viable product) will be deployed, and available for community upgrades and development. A set of smart contracts is set to enable FOUR RTA (i.e. right-to-access) models powering governance and application protocol fee-sharing structure.
 
-## FOUR
+## FOUR 💡
 
 The FOUR tokens act as a crucial technical component in solving RTA (i.e. right-to-access), MTO (i.e. multiple-transfer option), Grants, and Governance models in the ecosystem of Web3 communication.
 
