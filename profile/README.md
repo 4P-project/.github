@@ -10,12 +10,15 @@ The project's design centres around community collaboration to which any communi
 
 ## FOUR 💡
 
-The FOUR tokens act as a crucial technical component in solving RTA (i.e. right-to-access), MTO (i.e. multiple-transfer option), Grants, and Governance models in the ecosystem of Web3 communication.
+FOUR token is a technical and incentive component dedicated to; (1) RTA (i.e. right-to-access), and; (2) MTO (i.e. multiple-transfer option) models in the ecosystem of Web3 communication. Besides technical features, the FOUR token acts as an incentive mechanism enabling the Grants model.
 
-- ERC-20 standard allows FOUR to integrate with most EVM-compatible Layer 1/2's or Side Chains enabling various application RTA models.
-- An MTO option acts as a settlement service that conserves blockchain network transactions and bundles signed multiple transactions together, and settles them on the blockchain as one transaction. Ideal for multiple token transfers such as airdrops.
-- The locking of FOUR tokens results in; (1) access to gFOUR, enabling various governance models in the project ecosystem; (2) the right to application protocol fee sharing.
-- Funded by the FOUR treasury, the token grants enable continuous development in the FOUR token ecosystem.
+RTA (i.e. right-to-access); holding or locking FOUR enables access to;
+
+- application protocol fee sharing via RTC (i.e. right-to-claim). FOUR lockers have the ability to claim a part of the collected dMail and dChat communication transaction fees;
+- governance token gFOUR, which represents a voice in the decision-making process and signifies a deeper commitment to our project's growth and success, and;
+- Discord community of developers and projects core supporters.
+
+MTO (i.e. multiple-transfer option); as a part of the [Four] token smart contract, the option acts as a settlement service that conserves blockchain network transactions and bundles signed multiple transactions together, and settles them on the blockchain as one transaction. The MTO is ideal for multiple token transfers such as airdrops.
 
 ## Distribution 🌈
 
