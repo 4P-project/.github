@@ -4,9 +4,15 @@ On a mission to create robust dMail (i.e. decentralized email) and dChat (i.e. d
 
 ## Project Design 🎨
 
-The project's design centres around community collaboration to which any community member can contribute. Decentralized email and messaging MVPs (i.e. minimum viable product) will be deployed, and available for community upgrades and development. Open-source GitHub repositories stand ready for anyone to fork and propose enhanced functionalities. A set of smart contracts is set to enable FOUR token RTA (i.e. right-to-access) and RTC (i.e. right-to-claim) models powering Governance and dApp fee-sharing structure.
+The project's design centers around community collaboration to which any community member can contribute. Decentralized email and messaging MVPs (i.e. minimum viable product) will be deployed, and available for community upgrades and development. Open-source GitHub repositories stand ready for anyone to fork and propose enhanced functionalities. A set of smart contracts is set to enable FOUR token RTA (i.e. right-to-access) and RTC (i.e. right-to-claim) models powering Governance and dApp fee-sharing structure.
 
 ![project design](https://github.com/4P-project/static-assets/blob/8cdc48c5339b2694ef13fd40d2da08dd331cc268/image/4P-project-design.svg)
+
+## Architecture by Layers 
+
+Zooming out, the architecture is quite straightforward. The Community-built dMail & dChat clients are on top, powered by the 4thTech SDK, OCC Protocol v.1, Encryption, Storage, and blockchain networks. 4P smart contracts enable FOUR tokens RTA (i.e. right-to-access) and Governance models within the system.
+
+![architecture](https://github.com/4P-project/static-assets/blob/d4f5e948495c7486e3d50cec37fada5d98d5dd30/image/4P-infrastructural-layer-schematic.svg)
 
 ## FOUR 💡
 
@@ -16,9 +22,11 @@ RTA (i.e. right-to-access); holding or locking FOUR enables access to;
 
 - application protocol fee sharing via RTC (i.e. right-to-claim). FOUR lockers have the ability to claim a part of the collected dMail and dChat communication transaction fees;
 - governance token gFOUR, which represents a voice in the decision-making process and signifies a deeper commitment to our project's growth and success, and;
-- Discord community of developers and projects core supporters.
+- Discord community of developers and project core supporters.
 
 MTO (i.e. multiple-transfer option); as a part of the [Four] token smart contract, the option acts as a settlement service that conserves blockchain network transactions and bundles signed multiple transactions together, and settles them on the blockchain as one transaction. The MTO is ideal for multiple token transfers such as airdrops.
+
+⚠ _RTC or right to claim is a concept subjected to the future regulatory framework!_
 
 ## Distribution 🌈
 
