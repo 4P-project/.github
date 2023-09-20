@@ -6,7 +6,7 @@ On a mission to create robust dMail (i.e. decentralized email) and dChat (i.e. d
 
 The project's design centres around community collaboration to which any community member can contribute. Decentralized email and messaging MVPs (i.e. minimum viable product) will be deployed, and available for community upgrades and development. Open-source GitHub repositories stand ready for anyone to fork and propose enhanced functionalities. A set of smart contracts is set to enable FOUR token RTA (i.e. right-to-access) and RTC (i.e. right-to-claim) models powering Governance and dApp fee-sharing structure.
 
-![project design](https://github.com/4P-project/static-assets/blob/a9bc72c05af7be021bd77e2a1baaf4958cf70bb1/image/four-token-ecosystem.svg)
+![project design](https://github.com/4P-project/static-assets/blob/8cdc48c5339b2694ef13fd40d2da08dd331cc268/image/4P-project-design.svg)
 
 ## FOUR 💡
 
