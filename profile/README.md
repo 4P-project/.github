@@ -68,8 +68,8 @@ _**Phase 2 & 3 distribution (i.e. 2020 to 2025); Development fund (i.e. grants a
 
 | ****          | **Doc** | 
 |---------------|---------|
-| Disclaimer    | [pdf](https://github.com/4P-project/static-assets/blob/main/pdf/4P-disclaimer.pdf)     |
-| Legal Opinion | [pdf](https://github.com/4P-project/static-assets/blob/main/pdf/Legal-Opinion-(FOUR).pdf)     |
+| FOUR Disclaimer    | [pdf](https://github.com/4P-project/static-assets/blob/main/pdf/4P-FOUR-token-disclaimer.pdf)     |
+| 4P Software Disclaimer | [pdf](https://github.com/4P-project/static-assets/blob/main/pdf/4P-software-disclaimer.pdf)     |
 
 <!--
 
