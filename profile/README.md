@@ -12,7 +12,7 @@ The project's design centers around community collaboration to which any communi
 
 Zooming out, the architecture is quite straightforward. The Community-built dMail & dChat clients are on top, powered by the 4thTech SDK, OCC Protocol v.1, Encryption, Storage, and blockchain networks. 4P smart contracts enable FOUR tokens RTA (i.e. right-to-access) and Governance models within the system.
 
-![architecture](https://github.com/4P-project/static-assets/blob/d4f5e948495c7486e3d50cec37fada5d98d5dd30/image/4P-infrastructural-layer-schematic.svg)
+![architecture](https://github.com/4P-project/static-assets/blob/1c107209e868af999ba9b5e7828687ae0e84e152/image/4P-infrastructural-layer-schematic.svg)
 
 ## Discover More 📑
 
