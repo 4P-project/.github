@@ -1,12 +1,12 @@
 ## Introduction 👋
 
-On a mission to create robust dMail (i.e. decentralized email) and dChat (i.e. decentralized messaging) applications powered by community collaboration.
+On a mission to create robust & self-custodial on-chain emailing and messaging applications powered by community collaboration.
 
 ## Project Design 🎨
 
-The project's design centers around community collaboration to which any community member can contribute. Decentralized email and messaging MVPs (i.e. minimum viable product) will be deployed, and available for community upgrades and development. Open-source GitHub repositories stand ready for anyone to fork and propose enhanced functionalities. A set of smart contracts is set to enable FOUR token RTA (i.e. right-to-access) models.
+The project's design centers around community collaboration to which any community member can contribute. Decentralized email and messaging MVPs (i.e. minimum viable product) are deployed, and available for community upgrades and development. Open-source GitHub repositories stand ready for anyone to fork and propose enhanced functionalities. A set of smart contracts is set to enable FOUR token RTA (i.e. right-to-access) models.
 
-![project design](https://github.com/4P-project/static-assets/blob/5613359ce5dcd76250b566c5aec8de254f1f7b20/image/4P-project-design.svg)
+![project design](https://github.com/4P-project/static-assets/blob/1f1b678e66925f1e9e198534a1b0a05430457edf/image/4P-project-design.svg)
 
 ## Architecture by Layers ⚙
 
