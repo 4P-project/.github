@@ -6,13 +6,13 @@ On a mission to create robust & self-custodial on-chain emailing and messaging a
 
 The project's design centers around community collaboration to which any community member can contribute. Decentralized email and messaging MVPs (i.e. minimum viable product) are deployed, and available for community upgrades and development. Open-source GitHub repositories stand ready for anyone to fork and propose enhanced functionalities. A set of smart contracts is set to enable FOUR token RTA (i.e. right-to-access) models.
 
-![project design](https://github.com/4P-project/static-assets/blob/1f1b678e66925f1e9e198534a1b0a05430457edf/image/4P-project-design.svg)
+![project design](https://github.com/4P-project/static-assets/blob/aae39d8cb341ce6b517970bdca5e1bfabb6f54a7/image/4P-project-design.svg)
 
 ## Architecture by Layers ⚙
 
 Zooming out, the architecture is quite straightforward. The on-chain email and messaging clients sit on top, powered by the 4thTech OCC SDK, OCC Protocol v.1, Encryption, PollinationX Decentralized Storage NFTs, and EVM-based blockchain networks. 4P smart contracts enable FOUR token utility via RTA (i.e. right-to-access) and Governance models.
 
-![architecture](https://github.com/4P-project/static-assets/blob/c384a3446082489fe1415cde53264d0ca2a2e4dc/image/4P-infrastructural-layer-schematic.svg)
+![architecture](https://github.com/4P-project/static-assets/blob/aae39d8cb341ce6b517970bdca5e1bfabb6f54a7/image/4P-infrastructural-layer-schematic.svg)
 
 ## Discover More 📑
 
